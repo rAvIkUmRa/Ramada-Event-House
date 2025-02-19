@@ -440,13 +440,13 @@ body {
 
 .whatsapp-icon {
   position: fixed;
-  bottom: 20px;
-  right: 20px;
+  bottom: 15px;
+  right: 15px;
   background-color: #25d366;
   color: white;
-  font-size: 40px;
-  width: 80px;
-  height: 80px;
+  font-size: 30px;
+  width: 60px;
+  height: 60px;
   display: flex;
   align-items: center;
   justify-content: center;
